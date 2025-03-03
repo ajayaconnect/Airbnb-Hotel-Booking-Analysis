@@ -43,13 +43,6 @@ This project provided valuable insights into Airbnb listings in New York City, h
 * **EDA & Visualization**: Notebooks and scripts for EDA and visualization using Matplotlib and Seaborn.
 * **Insights & Recommendations**: Reports and documents outlining key findings and strategic recommendations.
 
-## Getting Started
-To replicate this project, follow these steps:
-1. Clone this repository using `git clone https://github.com/your-username/airbnb-eda.git`.
-2. Install required libraries using `pip install -r requirements.txt`.
-3. Run the data cleaning and preprocessing scripts using `python data_cleaning.py`.
-4. Explore the EDA and visualization notebooks using `jupyter notebook`.
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork this repository and submit a pull request with your changes.
 
