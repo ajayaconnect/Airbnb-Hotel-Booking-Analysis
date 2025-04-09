@@ -7,6 +7,8 @@
 
 ---
 
+![AIRBNB LOGO](https://github.com/ajayaconnect/Airbnb-Hotel-Booking-Analysis/blob/867d1460001521f2bf76b9970eb18c7de82cb6de/Icon.jpeg)
+
 ## 📘 Project Overview
 
 > This project dives deep into a dataset of **49,000 Airbnb listings** in **New York City**, uncovering what drives pricing, availability, and guest experience. Through detailed exploratory data analysis (EDA), we provide actionable insights for **hosts**, **travelers**, and **investors** alike.
