@@ -7,7 +7,7 @@
 
 ---
 
-![AIRBNB LOGO](https://github.com/ajayaconnect/Airbnb-Hotel-Booking-Analysis/blob/867d1460001521f2bf76b9970eb18c7de82cb6de/Icon.jpeg)
+![AIRBNB LOGO](https://github.com/ajayaconnect/Airbnb-Hotel-Booking-Analysis/blob/098504e78c03db5002c4527fafbf04b327636be6/Airbnb.jpg)
 
 ## 📘 Project Overview
 
